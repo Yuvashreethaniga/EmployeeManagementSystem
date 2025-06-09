@@ -14,7 +14,7 @@ import static io.restassured.RestAssured.given;
 public class employeeApiServiceController {
 
     static String baseUrl = configController.get("baseUrl");
-    static String endpoint = configController.get("studentsPort");
+    static String endpoint = configController.get("employeePort");
 
     public static Response addNewEmployee(Object empData) {
         RequestSpecification request = given().baseUri(baseUrl)
