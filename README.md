@@ -112,6 +112,7 @@ pipeline {
     }
 }
 
+
 Jenkinsfile – QA Repo
 
 pipeline {
