@@ -9,6 +9,8 @@ import io.cucumber.testng.CucumberOptions;
         glue = {"Steps","Hooks"},
         plugin = {"pretty"},
         tags = " @All")
+
 public class CucumberRunner extends AbstractTestNGCucumberTests {
+
 }
 
