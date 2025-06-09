@@ -1,4 +1,4 @@
-#### Employee Management API Automation Project
+### Employee Management API Automation Project
  
 This project automates REST API testing for the Employee Management System using Java, RestAssured, TestNG, Cucumber, and Extent Reports for reporting.
 
@@ -14,7 +14,7 @@ This project automates REST API testing for the Employee Management System using
 | Extent Report | 5.x                          | Interactive HTML reports for test results |
 
 
-### Why Extent Reports??
+### Why Extent Reports?
 
 Interactive HTML report with color-coded test logs
 Scenario-wise breakdown with detailed logging
