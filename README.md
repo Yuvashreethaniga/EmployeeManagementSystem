@@ -124,7 +124,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/Yuvashreethaniga/EmployeeManagement.git', branch: 'master'
+                git url: 'https://github.com/Yuvashreethaniga/EmployeeManagementSystem.git', branch: 'master'
             }
         }
         stage('Build and Test') {
